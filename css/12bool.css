@@ -24,8 +24,6 @@ body [class*="col-"] {
   clear: both;
 }
 
-
-
 [class*="col-"] {
   float: left;
   text-align: center;
