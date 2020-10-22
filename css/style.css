@@ -1,5 +1,5 @@
-body [class*="col-"] {
-  display: table;
+span {
+line-height: 200px;
 }
 
 .nested {
@@ -10,9 +10,4 @@ body [class*="col-"] {
   height: 190px;
   background-color: #f88379;
   border: 1px solid white;
-}
-
-span {
-display: table-cell;
-vertical-align: middle;
 }
