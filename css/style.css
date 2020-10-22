@@ -1,0 +1,14 @@
+span {
+vertical-align: middle;
+line-height: 200px;
+}
+
+.nested {
+  padding: 5px;
+}
+
+.nested [class*="col-"] {
+  height: 190px;
+  background-color: #f88379;
+  border: 1px solid white;
+}
